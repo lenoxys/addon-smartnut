@@ -3,7 +3,7 @@ name: SmartNUT
 version: dev
 slug: smartnut
 description: Smartly manage battery backup (UPS) devices
-url: https://github.com/aquette/addon-smartnut
+url: https://github.com/lenoxys/addon-smartnut
 startup: system
 arch:
   - aarch64
